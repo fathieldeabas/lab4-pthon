@@ -1,0 +1,1 @@
+fathi@gmail.com:::/bin/python3 /home/fathi/PycharmProjects/task9/main.py
